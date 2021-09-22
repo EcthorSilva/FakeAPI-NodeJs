@@ -52,10 +52,10 @@ Após isso é só entrar no link informado como na imagem anterior:
 http://localhost:3000
 ```
 
-### Repositorio de Referencia - Professor Laércio Silva
-
-[lndsilva/restapi_aula_p1](https://github.com/lndsilva/restapi_aula_p1)
-
 ### Links Úteis
 
 [Heroku: Cloud Application Platform](https://www.heroku.com/)
+
+### Repositorio de Referencia - Professor Laércio Silva
+
+[lndsilva/restapi_aula_p1](https://github.com/lndsilva/restapi_aula_p1)
