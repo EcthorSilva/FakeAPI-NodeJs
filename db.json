@@ -1,13 +1,24 @@
-   
 {
-  "clientes":[
+  "clientes": [
     {
-      "id":1,
-      "nome":"Etec Irmã Agostina"
+      "id": 1,
+      "nome": "Etec Irmã Agostina"
     },
     {
-      "id":2,
+      "id": 2,
       "nome": "Ecthor Silva"
+    }
+  ],
+  "vendas": [
+    {
+      "id": 10,
+      "descrição": "Banana Maçã",
+      "Valor": 20
+    },
+    {
+      "id": 11,
+      "descrição": "Mamão papai",
+      "Valor": 5
     }
   ],
   "fornecedores": [
@@ -24,7 +35,7 @@
       "ie": "002.003.45-8"
     },
     {
-      "descricao": "Escola Técnica",
+      "descricao": "Etec Irmã Agostina",
       "cnpj": "42.035.0002-38",
       "ie": "158.005.852-3",
       "id": 3
